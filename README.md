@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bishakhdutta&label=Profile%20views&color=0e75b6&style=flat" alt="bishakhdutta" /> </p>
 
-- 🔭 I’m currently doing an internships as a front end developer at [CuriousJr](https://github.com/curiousjr)
+- 🔭 I’m currently doing an internship as a front end developer at [CuriousJr](https://github.com/curiousjr)
 
 - 🌱 I’m currently learning **ReactJs**
 
