@@ -26,6 +26,14 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bishakhdutta&show_icons=true&locale=en" alt="bishakhdutta" /></p>
 
+
 <h2>Listening To:</h2>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=3156alo6j4nsmgvgbn74fgag6yzi&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=3156alo6j4nsmgvgbn74fgag6yzi&redirect=true)
+
+
+<h2>WEEB SECTION:</h2>
+<img src="https://c.tenor.com/00aTNDWiAk8AAAAM/no-waifu-no-laifu-chuunibyou-demo-koi-ga-shitai.gif" width="30%" align="left">
+<img src="https://c.tenor.com/oO9Qw7by71UAAAAC/nisekoi-waifu-war.gif" width="55%" align="right">
+
+
