@@ -28,9 +28,3 @@
 
 
 
-
-<h2>WEEB SECTION:</h2>
-<img src="https://c.tenor.com/00aTNDWiAk8AAAAM/no-waifu-no-laifu-chuunibyou-demo-koi-ga-shitai.gif" width="30%" align="left">
-<img src="https://c.tenor.com/oO9Qw7by71UAAAAC/nisekoi-waifu-war.gif" width="55%" align="right">
-
-
